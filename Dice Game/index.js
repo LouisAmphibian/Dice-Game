@@ -13,4 +13,12 @@ var leftDiceImage = document.querySelectorAll("img")[0].setAttribute("src",rando
 var rightDiceImage = document.querySelectorAll("img")[1].setAttribute("src", randomDiceImageRight);
 
 
+//Changing the text to show who won
+if(randomNumber1<randomNumber2){
+    document.querySelector("h1").innerHTML = "🚩Player1 Wins!";
+}else if(randomNumber1>randomNumber2){
+    document.querySelector("h1").innerHTML = "Player2 Wins!🚩";
+}else{
+    document.querySelector("h1").innerHTML = "⚪Draw!⚪";
+}
 
