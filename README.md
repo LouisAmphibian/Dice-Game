@@ -19,10 +19,12 @@ The application is built using HTML, CSS, and JavaScript, and it uses the DOM to
 5. Refresh the browser page to roll the dice and see the updated result each time.
 
 ## Screenshot
-![Screenshot 2024-07-28 121624](https://github.com/user-attachments/assets/c132199a-b284-4d04-b4fc-af469521e741)
+![Screenshot 2024-07-28 135454](https://github.com/user-attachments/assets/78a2355b-a209-4fe9-96ba-2c5889811cee)
 
-## How To USE it Tutorial Video
-https://github.com/user-attachments/assets/895e8e47-44fc-4e73-ab18-1be3d3997e36
+
+## How To USE it Tutorial VideoTutorial Video
+
+https://github.com/user-attachments/assets/bf5429e7-1118-4f4d-bf90-cfe25a6f2673
 
 
 ## Contributing
