@@ -8,9 +8,9 @@ var randomDiceImageLeft ="images/dice"+ randomNumber1 + ".png";
 var randomDiceImageRight = "images/dice"+randomNumber2 +".png";
 
 //get the left die and set it to a new src attribute 
-var leftDiceImage = document.querySelector("img1").setAttribute("src","randomDiceImageLeft");
+var leftDiceImage = document.querySelectorAll("img")[0].setAttribute("src",randomDiceImageLeft);
 
-var rightDiceImage = document.querySelector("img2").setAttribute("src", "randomDiceImageRight");
+var rightDiceImage = document.querySelectorAll("img")[1].setAttribute("src", randomDiceImageRight);
 
 
 
