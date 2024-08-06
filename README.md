@@ -33,7 +33,7 @@ Pull requests are welcome. No major changes, please open an issue first to discu
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-### [12-May-2023]
+### [28-July-2024]
 
 ### Features Added:
 1. The user can now roll a dice every time the page is refreshedThe user can now roll a dice every time the page is refreshed.
